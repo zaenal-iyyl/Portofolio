@@ -10,7 +10,7 @@ const Pages = () => {
           alt="Udin Profile"
           className="w-32 h-32 rounded-full mx-auto border-4 border-blue-500 shadow"
         />
-        <h1 className="text-4xl font-bold mt-6">Udin</h1>
+        <h1 className="text-4xl font-bold mt-6">yayaya</h1>
         <p className="text-lg text-gray-600 dark:text-gray-400">Frontend Developer</p>
       </section>
 
