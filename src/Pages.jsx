@@ -78,8 +78,8 @@ const Pages = () => {
             'Node.js',
             'MongoDB',
             'Go',
-            'ahhS',
-            'gatau jir',
+            'vue.js',
+            'mysql',
           ].map((skill, i) => (
             <li key={i} className="bg-gray-100 dark:bg-gray-700 px-4 py-2 rounded text-yellow-500">
               {skill}
