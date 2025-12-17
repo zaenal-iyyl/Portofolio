@@ -27,7 +27,7 @@ const Pages = () => {
           About Me
         </h2>
         <p className="text-lg leading-relaxed text-gray-800 dark:text-gray-300">
-          Hello! I’m <span className="text-blue-600 dark:text-blue-400 font-semibold">Udin</span>, a <strong>Frontend Developer</strong> who specializes in building clean, responsive, and modern web interfaces.
+          Hello! I’m <span className="text-blue-600 dark:text-blue-400 font-semibold">Zaenal</span>, a <strong>Frontend Developer</strong> who specializes in building clean, responsive, and modern web interfaces.
           I enjoy minimal UI design and integrating web or bot features into real-world web projects.
         </p>
       </section>
