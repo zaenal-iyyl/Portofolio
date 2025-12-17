@@ -17,7 +17,7 @@ const Pages = () => {
           </div>
         </div>
         <h1 className="text-5xl font-extrabold mt-6 bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 text-transparent bg-clip-text">
-          udin
+          zaenal
         </h1>
         <p className="text-lg text-gray-400 font-medium mt-2">Frontend Developer</p>
       </section>
